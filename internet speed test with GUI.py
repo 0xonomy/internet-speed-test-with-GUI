@@ -67,7 +67,7 @@ message.place(x=160 , y=300)
 button = Button(root, text="Start Test", font=('Nunito',19), command=test)
 button.place(x=230, y=370)
 
-by = Label(root, text="By GoldenJoker", fg='#1577b0', bg='#42f5a4', font=('Helvetica',14))
+by = Label(root, text="By @G0ldenJ0ker", fg='#1577b0', bg='#42f5a4', font=('Helvetica',14))
 by.place(x=0, y=575)
 
 root.mainloop()
